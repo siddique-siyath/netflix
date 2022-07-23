@@ -1,0 +1,323 @@
+.main-div{
+    height: 4170px;
+    width: 1519px;
+    margin-left: -8px;
+    margin-top: -8px;
+    background-color:#333;
+}
+
+.first-div{
+    height: 725px;
+    width: 1368px;
+    background-color: yellow;
+    margin-top: 1px;
+    margin-left: -21px;
+    transform: scale(1.25) translateY(-10%);
+}
+
+.main-img{
+    width: 1217px;
+    height: 605px;
+    padding-left: 153px;
+    padding-top: 145px;
+    display: flex;
+    background: rgba(0,0,0,.4);
+    background-image: linear-gradient(0deg,rgba(0,0,0,.8) 0,transparent 60%,rgba(0,0,0,.8));
+}
+
+.first-sub-div{
+    width: 1194px;
+    height: 89px;
+    background-color: black;
+    padding-left: 24px;
+    padding-top: 1px;
+    margin-top: -12px;
+    margin-left: 150px;
+    margin-top: -628px;
+}
+
+.f-s-1{
+    background-color: aqua;
+    height: 25px;
+    width: 101px;
+    margin-top: -97px;
+    margin-left: 986px;
+}
+
+.f-s-2{
+    background-color: aqua;
+    height: 25px;
+    width: 101px;
+    margin-top: -25px;
+    margin-left: 1080px;
+}
+
+.second-div{
+    width: 620px;
+    height: 419px;
+    background-color: black;
+    margin-top: 83px;
+    margin-left: 275px;
+    color: white;
+}
+
+.email{
+    height: 300px;
+    width: 600px;
+    display: flex;
+
+}
+
+.get-started{
+    height: 40px;
+    width: 350px;
+    background-color: red;
+    padding-top: 15px;
+}
+
+.getword{
+    color: white;
+    font-size: 25px;
+    padding-left: 4px;
+    padding-top: -20px;
+}
+
+.s-div{
+    height: 500px;
+    width: 1519px;
+    background-color: white;
+    margin-top: 44px;
+    display: flex;
+    
+}
+
+.s-d-1{
+    background-color:black;
+    height: 500px;
+    width: 765px;
+}
+
+.s-d-2{
+    background-color: black;
+    height: 500px;
+    width: 765px;
+}
+
+.tv-img{
+    height: 346px;
+    width: 515px;
+    padding-left: 124px;
+    padding-top: 111px;
+}
+
+.stranger{
+    height: 200px;
+    width: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.tvword{
+    height: 217px;
+    width: 518px;
+    background-color: black;
+    margin-top: 223px;
+    margin-left: 133px;
+}
+
+.t-div{
+    height: 500px;
+    width: 1519px;
+    background-color: black;
+    margin-top: 14px;
+    display: flex;
+}
+
+.t-d-1{
+    background-color:black;
+    height: 490px;
+    width: 765px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.t-d-2{
+    background-color: black;
+    height: 500px;
+    width: 765px;
+}
+
+.phone{
+    height: 462px;
+    width: 400px;
+    padding-left: 145px;
+    padding-top: 15px;
+}
+
+.f-div{
+    height: 500px;
+    width: 1519px;
+    background-color: black;
+    margin-top: 14px;
+    display: flex;
+}
+
+.f-d-1{
+    background-color:black;
+    height: 490px;
+    width: 765px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.f-d-2{
+    background-color: black;
+    height: 500px;
+    width: 765px;
+}
+
+.tvpt{
+    height: 464px;
+    width: 560px;
+    padding-left: 81px;
+    padding-top: 15px;
+}
+
+.s-div{
+    height: 500px;
+    width: 1519px;
+    background-color: black;
+    margin-top: 14px;
+    display: flex;
+}
+
+.s-d-1{
+    background-color:black;
+    height: 490px;
+    width: 765px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.s-d-2{
+    background-color: black;
+    height: 500px;
+    width: 765px;
+}
+
+.children{
+    height: 350px;
+    width: 400px;
+    padding-left: 212px;
+    padding-top: 90px;
+}
+
+.cword{
+    height: 248px;
+    width: 528px;
+    background-color: black;
+    margin-top: 180px;
+    margin-left: 133px;
+}
+
+.question{
+    height: 950px;
+    width: 1521px;
+    background-color: black;
+    margin-top: -22px;
+}
+
+.question-sub{
+    height: 537px;
+    width: 801px;
+    background-color: black;
+    margin-left: 323px;
+    margin-top: -18px;
+    padding-top: 22px;
+    display: flex;
+    flex-direction: column;
+}
+
+.qus{
+    height: 75px;
+    width: 790px;
+    margin-top: 12px;
+    margin-left: 4px;
+    background-color: #303030;
+}
+
+.qus img{
+    display: flex;
+    flex-direction:row
+}
+
+.email-2{
+    height: 97px;
+    width: 648px;
+    padding-left: 381px;
+    padding-top: 0px;
+    display: flex
+
+}
+
+.get-started-2{
+    height: 56px;
+    width: 350px;
+    background-color: red;
+    padding-top: 15px;
+}
+
+.getword-2{
+    color: white;
+    font-size: 25px;
+    padding-left: 4px;
+    padding-top: -20px;
+}
+
+footer{
+    width: 1522px;
+    height: 412px;
+    background-color: black;
+    margin-top: 69px;
+    margin-left: -3px;
+}
+
+.footer{
+    height: 145px;
+    width: 800px;
+    background-color: black;
+    margin-top: -4px;
+    margin-left: 305px;
+    display: flex;
+    
+}
+
+.footer-sub{
+    background-color: black;
+    height: 170px;
+    width: 227px;
+    margin-left: 10px;
+}
+
+li{
+    font-size: 15px;
+    line-height: 25px;
+    color: white;
+    list-style-type: none;
+}
+
+.l-s-1{
+    background-color: black;
+    height: 55px;
+    width: 101px;
+    margin-top: 31px;
+    margin-left: 356px;
+}
+
+.netflix-india{
+    width: 215px;
+    height: 46px;
+    margin-top: 0px;
+    margin-left: 357px;
+    background-color: black;
+}
